@@ -1,1 +1,1 @@
-# 319-Midterm-Project
+Midterm Project for Construction of User Interfaces at Iowa State University.
